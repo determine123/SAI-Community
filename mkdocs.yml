@@ -3,9 +3,9 @@ site_author: SAI
 site_description: >-
   SAI Community
 
-site_url: https://sjtu-sai-geekcenter.github.io/SAI-Community/
-repo_name: SAI Community
-repo_url: https://github.com/SJTU-SAI-GeekCenter/SAI-Community
+site_url: https://determine123.github.io/SAI-Community/
+repo_name: determine123/SAI-Community
+repo_url: https://github.com/determine123/SAI-Community
 
 theme:
   custom_dir: overrides
