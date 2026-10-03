@@ -124,10 +124,11 @@ nav:
         - Advanced Markdown: "contributions/markdown_tutorial.md"
         - Local Launch: "contributions/local_run.md"
         - Demo: "templates/template.md"
-        - Pull Request Tutorial: "contributions/pull_request_tutorial.md"
+        - Pull Request Tutorial: "contributions/Pull_Request_Tutorial.md"
         
 
 plugins:
+  - search
   - glightbox
 
 exclude_docs: |

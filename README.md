@@ -6,4 +6,4 @@
 
 ## Pull Request Tutorial
 
-[Pull Request Tutorial](./docs/contributions/pull_request_tutorial.md)
+[Pull Request Tutorial](./docs/contributions/Pull_Request_Tutorial.md)
